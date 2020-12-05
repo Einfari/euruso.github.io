@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 东风夜放花千树</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on 东风夜放花千树</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 05 Dec 2020 22:22:00 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Sat, 05 Dec 2020 22:22:00 +0800</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>Hello World. </description>
+    </item>
+    
+  </channel>
+</rss>
